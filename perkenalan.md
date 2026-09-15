@@ -13,3 +13,8 @@ Saya memiliki minat dalam bidang pemrograman dan pengembangan perangkat lunak. S
 ## Harapan terhadap Mata Kuliah
 
 Saya berharap melalui mata kuliah Software Development saya dapat memahami proses pengembangan perangkat lunak dengan lebih baik. Saya juga ingin memahami penggunaan Git dan GitHub sebagai alat untuk mengelola proyek dan mencatat perubahan dalam pengembangan perangkat lunak.
+
+## Pengalaman Menggunakan GitHub
+
+Ini adalah pengalaman pertama saya menggunakan Git dan GitHub. 
+Saya belajar membuat repository, melakukan commit, dan mengunggah file ke GitHub.
