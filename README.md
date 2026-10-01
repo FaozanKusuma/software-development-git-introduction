@@ -22,3 +22,4 @@ Tujuan dari repository ini adalah untuk memahami konsep dasar version control se
 * Git
 * GitHub
 * Visual Studio Code
+* GPT PLUS
